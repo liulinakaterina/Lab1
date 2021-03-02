@@ -1,0 +1,10 @@
+// Файлы указаний помогают среде IDE Visual Studio интерпретировать идентификаторы Visual C++
+// (например, имена функций и макросов).
+// Дополнительные сведения: https://go.microsoft.com/fwlink/?linkid=865984
+#define __out _SAL1_Source_(__out, (), _Out_)
+#define __out _SAL_VERSION_CHECK(__out)
+// Файлы указаний помогают среде IDE Visual Studio интерпретировать идентификаторы Visual C++
+// (например, имена функций и макросов).
+// Дополнительные сведения: https://go.microsoft.com/fwlink/?linkid=865984
+#define __out _SAL1_Source_(__out, (), _Out_)
+#define __out _SAL_VERSION_CHECK(__out)
